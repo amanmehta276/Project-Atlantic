@@ -52,4 +52,4 @@ As AI infrastructure keeps scaling up, I think ideas like this — heat recovery
   <strong>— Aman Mehta</strong>
 </p>
 
-print(abc)
+me
