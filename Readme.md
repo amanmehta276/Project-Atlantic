@@ -51,5 +51,4 @@ As AI infrastructure keeps scaling up, I think ideas like this — heat recovery
 <p align="center">
   <strong>— Aman Mehta</strong>
 </p>
-
-me
+print()
